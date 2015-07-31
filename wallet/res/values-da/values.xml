@@ -2,11 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>NMC, 8 decimaler</item>
-		<item>NMC, 6 decimaler</item>
-		<item>NMC, 4 decimaler</item>
-		<item>mNMC, 2 decimaler</item>
-		<item>µNMC, uden decimaler</item>
+		<item>WLC, 8 decimaler</item>
+		<item>WLC, 6 decimaler</item>
+		<item>WLC, 4 decimaler</item>
 	</string-array>
 
 </resources>

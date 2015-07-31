@@ -2,11 +2,9 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>NMC, 8 dígitos</item>
-		<item>NMC, 6 dígitos</item>
-		<item>NMC, 4 dígitos</item>
-		<item>mNMC, 2 dígitos</item>
-		<item>µNMC, sin dígitos</item>
+		<item>wLC, 8 dígitos</item>
+		<item>WLC, 6 dígitos</item>
+		<item>WLC, 4 dígitos</item>
 	</string-array>
 
 </resources>
