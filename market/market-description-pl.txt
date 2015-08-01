@@ -1,21 +1,21 @@
-Miej swoje Namecoiny zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Namecoin Wallet jest pierwszą aplikacją Namecoinową na telefony i niezaprzeczalnie najbezpieczniejszą.
+Miej swoje Worldleadcurrencyy zawsze w swojej kieszeni! Zapłacisz skanując kod QR. Jako sprzedawca odbierzesz płatności niezawodnie i natychmiastowo. Worldleadcurrency Wallet jest pierwszą aplikacją Worldleadcurrencyową na telefony i niezaprzeczalnie najbezpieczniejszą.
 
 WŁAŚCIWOŚCI:
 
 • Brak konieczności rejestracji, serwisu online lub chmury! Ten portfel używa zdecentralizowanej sieci peer-to-peer.
-• Wyświetl ilość kwotę w NMC i mNMC.
+• Wyświetl ilość kwotę w WLC i mWLC.
 • Zamiana z i na waluty narodowe
-• Wysyłąnie i odbieranie Namecoin za pomocą NFC, kodów QR czy adresów Namecoin URL.
-• Książka adresowa dla regularnie używanych adresów Namecoin.
+• Wysyłąnie i odbieranie Worldleadcurrency za pomocą NFC, kodów QR czy adresów Worldleadcurrency URL.
+• Książka adresowa dla regularnie używanych adresów Worldleadcurrency.
 • Gdy jesteś offline, wciąż możesz zapłacić przy użyciu Bluetooth.
 • System powiadomień dla przychodzących transakcji.
 • Widget aplikacji dla stanu konta.
 
-Dowiedz się więcej o Namecoin
-http://namecoin.org
+Dowiedz się więcej o Worldleadcurrency
+http://worldleadcurrency.org
 
-Jeśli chcesz przyczynić się do rozwoju Namecoin Wallet to projekt znajduje się pod adresem
-https://github.com/HashEngineering/namecoin-wallet
+Jeśli chcesz przyczynić się do rozwoju Worldleadcurrency Wallet to projekt znajduje się pod adresem
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 Licencja: GPLv3
 Używasz na własne ryzyko!

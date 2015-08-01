@@ -1,21 +1,21 @@
-Tartsd a zsebedben Namecoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Namecoin Tárca az első Namecoin app és kétségkívül a legbiztonságosabb is!
+Tartsd a zsebedben Worldleadcurrencyjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Worldleadcurrency Tárca az első Worldleadcurrency app és kétségkívül a legbiztonságosabb is!
 
 ELŐNYÖK:
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• A Namecoinjaid mennyiségét NMC és mNMC formában is láthatod.
+• A Worldleadcurrencyjaid mennyiségét WLC és mWLC formában is láthatod.
 • Átváltás a saját valutádra, oda-vissza.
-• Namecoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
-• Címtár a rendszeresen használt Namecoin címek számára.
+• Worldleadcurrency küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Worldleadcurrency címek számára.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet Namecoin érkezésekor.
-• Widget a Namecoin egyenlegről.
+• Rendszerüzenet Worldleadcurrency érkezésekor.
+• Widget a Worldleadcurrency egyenlegről.
 
-Bővebben a Namecoin-ról:
-http://namecoin.org
+Bővebben a Worldleadcurrency-ról:
+http://worldleadcurrency.org
 
-Ha hozzájárulnál a Namecoin Wallet projekthez:
-https://github.com/HashEngineering/namecoin-wallet
+Ha hozzájárulnál a Worldleadcurrency Wallet projekthez:
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 
 

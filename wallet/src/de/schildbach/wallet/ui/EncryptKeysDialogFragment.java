@@ -55,7 +55,7 @@ import android.widget.TextView;
 import com.google.protobuf.ByteString;
 
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

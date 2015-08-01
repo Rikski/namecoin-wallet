@@ -22,7 +22,7 @@ import java.util.List;
 import android.app.ActionBar;
 import android.os.Bundle;
 import android.view.MenuItem;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

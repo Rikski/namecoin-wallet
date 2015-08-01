@@ -1,26 +1,26 @@
-<b>Porta i tuoi Namecoin sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Namecoin Wallet è la prima Namecoin app mobile, e probabilmente anche la più sicura!
+<b>Porta i tuoi Worldleadcurrency sempre con te, in tasca!</b>  Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Worldleadcurrency Wallet è la prima Worldleadcurrency app mobile, e probabilmente anche la più sicura!
 
 
 <b>CARATTERISTICHE</b>
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Namecoin in NMC, mNMC e µNMC.
+• Mostra l'ammontare di Worldleadcurrency in WLC, mWLC e µWLC.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Namecoin tramite NFC, codici QR o URL Namecoin.
-• Rubrica degli indirizzi per usare indirizzi Namecoin regolarmente.
+• Invio e ricevimento di Worldleadcurrency tramite NFC, codici QR o URL Worldleadcurrency.
+• Rubrica degli indirizzi per usare indirizzi Worldleadcurrency regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
 • Svuotamento di portafogli cartacei (es: quelli utilizzati come depositi offline)
-• App Widget per il saldo Namecoin
+• App Widget per il saldo Worldleadcurrency
 
 
 <b>CONTRIBUISCI</b>
 
-Namecoin Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
+Worldleadcurrency Wallet è <b>open source</b> e <b>software libero</b>. Licenza: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Il nostro codice sorgente è disponibile su GitHub
-https://github.com/HashEngineering/namecoin-wallet
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 Tutte le traduzioni sono gestite attraverso Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,7 +28,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIANZE</b>
 
-• Portafoglio mobile raccomandato da http://namecoin.org
+• Portafoglio mobile raccomandato da http://worldleadcurrency.org
 
 
 <i>Usala a tuo rischio!</i>

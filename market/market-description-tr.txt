@@ -1,26 +1,26 @@
-<b>Namecoin'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Namecoin Wallet ilk mobil Namecoin uygulamasıdır ve muhtemelen en güvenli Namecoin uygulamasıdır!
+<b>Worldleadcurrency'leriniz daima cebinizde sizinle olsun!</b> Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Worldleadcurrency Wallet ilk mobil Worldleadcurrency uygulamasıdır ve muhtemelen en güvenli Worldleadcurrency uygulamasıdır!
 
 
 <b>ÖZELLİKLER</b>
 
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Namecoin meblağlarını NMC, mNMC ve µNMC olarak göster.
+• Worldleadcurrency meblağlarını WLC, mWLC ve µWLC olarak göster.
 • Ulusal para birimlerine ve bu para birimlerinden dönüştürme.
-• QR kodları, Namecoin bağlantıları ve yakın alan iletişimi ile Namecoin alımı ve gönderilmesi.
-• Sık kullanılan Namecoin adresleri için adres defteri içerir.
+• QR kodları, Worldleadcurrency bağlantıları ve yakın alan iletişimi ile Worldleadcurrency alımı ve gönderilmesi.
+• Sık kullanılan Worldleadcurrency adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
 • Alınan bitcoin'ler için sistem bildirimleri.
 • Kağıt cüzdanların taranması (mesela soğuk depolama için kullanılanlar).
-• Namecoin bakiyesini görüntüleyen widget.
+• Worldleadcurrency bakiyesini görüntüleyen widget.
 
 
 <b>İŞTİRAK EDİN</b>
 
-Namecoin Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
+Worldleadcurrency Wallet <b>açık kaynak</b> ve <b>özgür yazılımdır</b>. Lisans: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Kaynak kodumuz GitHub'da mevcuttur:
-https://github.com/HashEngineering/namecoin-wallet
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 Tüm tercümeler Transifex üzerinde yönetilir:
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -28,8 +28,8 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>REFERANSLAR</b>
 
-• Birçok mobil cüzdan kodları için Namecoin Wallet'i temel alırlar. Mesela blockchain.info, Hive ve KnC.
-• http://namecoin.org tarafından tavsiye edilen mobil cüzdan.
+• Birçok mobil cüzdan kodları için Worldleadcurrency Wallet'i temel alırlar. Mesela blockchain.info, Hive ve KnC.
+• http://worldleadcurrency.org tarafından tavsiye edilen mobil cüzdan.
 • BitPay tarafından tavsiye edilir.
 
 

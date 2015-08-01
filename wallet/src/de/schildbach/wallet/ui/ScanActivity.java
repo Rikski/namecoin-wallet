@@ -58,7 +58,7 @@ import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.qrcode.QRCodeReader;
 
 import de.schildbach.wallet.camera.CameraManager;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

@@ -20,7 +20,7 @@ package de.schildbach.wallet;
 import android.os.Build;
 import android.os.Environment;
 import android.text.format.DateUtils;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 import org.bitcoinj.core.CoinDefinition;
 import org.bitcoinj.core.NetworkParameters;
 import org.bitcoinj.params.MainNetParams;
@@ -149,8 +149,8 @@ public final class Constants
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://namecoin.org/";
-    public static final String CREDITS_FORUM_URL = "http://namecoin.org/forum/";
+    public static final String CREDITS_WEBSITE_URL = "http://worldleadcurrency.org/";
+    public static final String CREDITS_FORUM_URL = "http://worldleadcurrency.org/forum/";
 
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
 

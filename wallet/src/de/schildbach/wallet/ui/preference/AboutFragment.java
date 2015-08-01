@@ -27,7 +27,7 @@ import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

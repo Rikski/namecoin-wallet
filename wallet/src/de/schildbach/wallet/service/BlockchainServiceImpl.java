@@ -38,7 +38,7 @@ import de.schildbach.wallet.ui.WalletActivity;
 import de.schildbach.wallet.util.CrashReporter;
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
 import de.schildbach.wallet.util.WalletUtils;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 import org.bitcoinj.core.*;
 import org.bitcoinj.core.TransactionConfidence.ConfidenceType;
 import org.bitcoinj.net.discovery.DnsDiscovery;
@@ -401,7 +401,7 @@ public class BlockchainServiceImpl extends android.app.Service implements Blockc
                     private PeerDiscovery dbPeerDiscovery = null;
                     //Random rand = new Random();
                     //int i = 0; //rand.nextInt(50);
-                    //String channel = "#namecoin" + String.format("%02d", i);
+                    //String channel = "#worldleadcurrency" + String.format("%02d", i);
                     String channel = "#"+CoinDefinition.coinName.toLowerCase() +"00";
                     private final PeerDiscovery fallbackPeerDiscovery = new IrcDiscovery(channel);
 

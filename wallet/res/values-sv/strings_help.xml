@@ -3,11 +3,11 @@
   <string name="help_wallet">
 <![CDATA[
 		<p>
-			I den övre delen av skärmen visas ditt saldo i Namecoin samt värdet i en vald nationell valuta.
+			I den övre delen av skärmen visas ditt saldo i Worldleadcurrency samt värdet i en vald nationell valuta.
 			Tryck för att lista nationella valutor, och välj en av valutorna för att visa den som standard.
 		</p>
 		<p>
-			QR-koden till höger inehåller din Namecoinaddress och kan scannas av den som vill skicka Namecoin till dig.
+			QR-koden till höger inehåller din Worldleadcurrencyaddress och kan scannas av den som vill skicka Worldleadcurrency till dig.
 			Tryck med fingret på QR-koden för att få en större version av den.
 		</p>
 		<p>
@@ -17,7 +17,7 @@
 			Dra med fingret åt vänster eller höger för att filtrera listan.
 		</p>
 		<p>
-			Du kan skicka eller ta emot Namecoin genom att trycka på knapparna i aktivitetslistan.
+			Du kan skicka eller ta emot Worldleadcurrency genom att trycka på knapparna i aktivitetslistan.
 			Fler val är möjliga i menyn.
 		</p>
 	]]>
@@ -25,43 +25,43 @@
   <string name="help_request_coins">
 <![CDATA[
 		<p>
-			Med denna dialog kan du ta emot Namecoin från någon annan (som redan har Namecoin Wallet installerad på sin telefon).
+			Med denna dialog kan du ta emot Worldleadcurrency från någon annan (som redan har Worldleadcurrency Wallet installerad på sin telefon).
 		</p>
 		<p>
-			Först anger du hur många Namecoin du vill att de skickar.
+			Först anger du hur många Worldleadcurrency du vill att de skickar.
 		</p>
 		<p>
 			Sedan kan den andra personen scanna QR-koden.
-			Eller så använder du \"Dela\" knappen i aktivitetslistan för att skicka din uppmaning att skicka Namecoin.
-			Den andra personen behöver sedan bara klicka på den Namecoin-URL du skickat.
+			Eller så använder du \"Dela\" knappen i aktivitetslistan för att skicka din uppmaning att skicka Worldleadcurrency.
+			Den andra personen behöver sedan bara klicka på den Worldleadcurrency-URL du skickat.
 		</p>
 		<p>
 			Sedan kommer den andra personen att få se en dialogruta där alla fält redan är ifyllda.
-			Om han eller hon sedan accapterar transaktionen så skickas Namecoin till dig.
+			Om han eller hon sedan accapterar transaktionen så skickas Worldleadcurrency till dig.
 		</p>
 	]]>
 	</string>
   <string name="help_send_coins">
 <![CDATA[
 		<p>
-			Du har påbörjat skickandet av Namecoin.
-			Du kom hit från huvudskärmen eller genom att klicka på en Namecoin-URL i din webbläsare.
+			Du har påbörjat skickandet av Worldleadcurrency.
+			Du kom hit från huvudskärmen eller genom att klicka på en Worldleadcurrency-URL i din webbläsare.
 		</p>
 		<p>
-			Ange först vilken Namecoin adress du vill skicka till.
+			Ange först vilken Worldleadcurrency adress du vill skicka till.
 			Adressen kan automatiskt fyllas i om den börjar med någon av adresserna i din adressbok.
-			Du kan också scanna en QR-kod innehållande en Namecoin-adress, genom att trycka på QR knappen i aktivitetslistan.
+			Du kan också scanna en QR-kod innehållande en Worldleadcurrency-adress, genom att trycka på QR knappen i aktivitetslistan.
 		</p>
 		<p>
-			Sedan kan du se hur många Namecoin du för tillfället kan skicka.
+			Sedan kan du se hur många Worldleadcurrency du för tillfället kan skicka.
 			Om det antalet skiljer sig från det som visas på huvudskärmen, så beror det på hittills obekräftade överföringar som du ännu inte får använda.
 		</p>
 		<p>
-			Slutligen anger du hur många Namecoin du skicka.
+			Slutligen anger du hur många Worldleadcurrency du skicka.
 		</p>
 		<p>
 			Du kan skapa en transaktion även om du inte är online.
-			Den kommer att skickas nästa gång Namecoin Wallet startas.
+			Den kommer att skickas nästa gång Worldleadcurrency Wallet startas.
 			Om du vill att en transaktion ska hanteras så fort som möjligt, se till att ha bra uppkoppling till internet (exempelvis ett WLAN).
 		</p>
 		<p>
@@ -74,20 +74,20 @@
   <string name="help_safety">
 <![CDATA[
 		<p>
-			<b>Några ord om säkerhet och Namecoin:</n>
+			<b>Några ord om säkerhet och Worldleadcurrency:</n>
 		</p>
 		<p>
-			Dina Namecoin i Namecoin Wallet sparas på din Android telefon.
-			<b>Om du tappar bort din telefon, så tappar du bort dina Namecoin.</b>
+			Dina Worldleadcurrency i Worldleadcurrency Wallet sparas på din Android telefon.
+			<b>Om du tappar bort din telefon, så tappar du bort dina Worldleadcurrency.</b>
 			Precis som pengar i din vanliga plånbok.
 		</p>
 		<p>
-			<b>Innan du avinstallerar Namecoin Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Namecoin till en annan wallet</b>.
-			Alla kvarvarande Namecoin kommer att försvinna.
+			<b>Innan du avinstallerar Worldleadcurrency Wallet</b> (eller tar bort appens data/rensar din telefon), <b>skicka dina Worldleadcurrency till en annan wallet</b>.
+			Alla kvarvarande Worldleadcurrency kommer att försvinna.
 		</p>
 		<p>
 			<b>Transaktioner kan inte stoppas</b>.
-			Efter att du skickat Namecoin finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
+			Efter att du skickat Worldleadcurrency finns det inget sätt att få dem tillbaka, annat än om du vet vem mottagaren är, och han/hon skickar dem tillbaka.
 		</p>
 		<p>
 			<b>Se till att skydda din telefon!</b>
@@ -96,7 +96,7 @@
 		</p>
 		<p>
 			Utsätt dig inte för onödig risk!
-			<b>Använd bara Namecoin Wallet med mindre belopp</b> för daglig användning.
+			<b>Använd bara Worldleadcurrency Wallet med mindre belopp</b> för daglig användning.
 		</p>
 	]]>
 	</string>

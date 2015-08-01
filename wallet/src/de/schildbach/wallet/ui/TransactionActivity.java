@@ -26,7 +26,7 @@ import android.view.MenuItem;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.Base43;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 import org.bitcoinj.core.*;
 
 import java.io.ByteArrayInputStream;

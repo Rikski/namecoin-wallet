@@ -1,25 +1,25 @@
-<b>Mějte své Namecoiny vždy s sebou ve své kapse!</b> Plaťte rychým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Namecoin Wallet je mobilní Namecoin aplikace číslo jedna a jedna z nejbezpečnějších!
+<b>Mějte své Worldleadcurrencyy vždy s sebou ve své kapse!</b> Plaťte rychým oskenováním QR kódu. A jako prodejce můžete přijímat platby spolehlivě a rychle. Worldleadcurrency Wallet je mobilní Worldleadcurrency aplikace číslo jedna a jedna z nejbezpečnějších!
 
 <b>FUNKCE</b>
 
 • Žádná registrace, žádná webová služba ani cloud není potřeba! Tato peněženka je de-centralizovaná a peer to peer.
-• Zobrazení Namecoin částek v NMC, mNMC a µNMC.
+• Zobrazení Worldleadcurrency částek v WLC, mWLC a µWLC.
 • Přepočet z a do národních měn.
-• Odesílání a přijímání plateb přes NFC, QR kódy nebo Namecoin URL.
-• Adresář pro často používané Namecoin adresy.
+• Odesílání a přijímání plateb přes NFC, QR kódy nebo Worldleadcurrency URL.
+• Adresář pro často používané Worldleadcurrency adresy.
 • Pokud jste offline, stále můžete platit přes Bluetooth.
 • Systémové notifikace při přijaté platbě
 • Načítání papírových peněženek (např. ty co se používají u cold storage).
-• Widget pro zborazení Namecoin bilance.
+• Widget pro zborazení Worldleadcurrency bilance.
 
 
 <b>PŘISPĚJTE</b>
 
-Namecoin Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
+Worldleadcurrency Wallet je <b>open source</b> a <b>svobodný software</b>. Licence: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Náš zdrojový kód je k dispozici na GitHubu:
-https://github.com/HashEngineering/namecoin-wallet
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 Veškeré překlady jsou tvořeny pomocí Transflex.
 https://www.transifex.com/projects/p/bitcoin-wallet/
@@ -27,7 +27,7 @@ https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>UZNÁNÍ</b>
 
-• Doporučená mobilní peněženka stránkou http://namecoin.org
+• Doporučená mobilní peněženka stránkou http://worldleadcurrency.org
 
 
 <i>Použití na vlastní riziko!</i>

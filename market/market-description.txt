@@ -1,31 +1,31 @@
-Have your Namecoins always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Namecoin Wallet is the first mobile Namecoin app, and arguably also the most secure!
+Have your Worldleadcurrencys always with you, in your pocket! You pay by quickly scanning a QR-code. As a merchant, you receive payments reliably and instantly. Worldleadcurrency Wallet is the first mobile Worldleadcurrency app, and arguably also the most secure!
 
 <b>FEATURES</b>
 
 • No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
-• Display of Namecoin amount in NMC, mNMC and µNMC.
+• Display of Worldleadcurrency amount in WLC, mWLC and µWLC.
 • Conversion to and from national currencies.
-• Sending and receiving of Namecoin via NFC, QR-codes or Namecoin URLs.
-• Address book for regularly used Namecoin addresses.
+• Sending and receiving of Worldleadcurrency via NFC, QR-codes or Worldleadcurrency URLs.
+• Address book for regularly used Worldleadcurrency addresses.
 • When you're offline, you can still pay via Bluetooth.
 • System notification for received coins.
 • Sweeping of paper wallets (e.g. those used for cold storage).
-• App widget for Namecoin balance.
+• App widget for Worldleadcurrency balance.
 
 <b>CONTRIBUTE</b>
 
-Namecoin Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+Worldleadcurrency Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
 https://www.gnu.org/licenses/gpl-3.0.en.html
 
 Our source code is available at GitHub:
-https://github.com/HashEngineering/namecoin-wallet
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 All translations are managed via Transifex:
 https://www.transifex.com/projects/p/bitcoin-wallet/
 
 <b>TESTIMONIALS</b>
 
-• Recommended mobile wallet by http://namecoin.org/
+• Recommended mobile wallet by http://worldleadcurrency.org/
 
 
 

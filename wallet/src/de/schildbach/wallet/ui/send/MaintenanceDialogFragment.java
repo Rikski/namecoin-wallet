@@ -60,7 +60,7 @@ import com.google.common.util.concurrent.ListenableFuture;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.ui.AbstractWalletActivity;
 import de.schildbach.wallet.ui.DialogBuilder;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

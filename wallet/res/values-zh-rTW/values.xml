@@ -2,11 +2,11 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>NMC, 8位數</item>
-		<item>NMC, 6位數</item>
-		<item>NMC, 4位數</item>
-		<item>mNMC, 2位數</item>
-		<item>µNMC, 0位數</item>
+		<item>WLC, 8位數</item>
+		<item>WLC, 6位數</item>
+		<item>WLC, 4位數</item>
+		<item>mWLC, 2位數</item>
+		<item>µWLC, 0位數</item>
 	</string-array>
 
 </resources>

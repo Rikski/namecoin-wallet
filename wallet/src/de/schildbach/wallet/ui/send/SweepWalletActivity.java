@@ -27,7 +27,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
 import de.schildbach.wallet.ui.AbstractBindServiceActivity;
-import hashengineering.namecoin.wallet.R;
+import hashengineering.worldleadcurrency.wallet.R;
 
 /**
  * @author Andreas Schildbach

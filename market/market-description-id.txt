@@ -1,20 +1,20 @@
-Dengan aplikasi ini Anda selalu mempunyai Namecoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Namecoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Worldleadcurrency dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Worldleadcurrency Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Namecoin dan mata uang lainnya.
-• Mengirim dan menerima Namecoin via NFC, kode-QR atau Tautan Namecoin.
-• Buku alamat untuk alamat penggunaan Namecoin secara reguler.
+• Tampilkan saldo dompet dalam Worldleadcurrency dan mata uang lainnya.
+• Mengirim dan menerima Worldleadcurrency via NFC, kode-QR atau Tautan Worldleadcurrency.
+• Buku alamat untuk alamat penggunaan Worldleadcurrency secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Namecoin dan menerima koin.
-• Widget Apl untuk saldo Namecoin.
+• Notifikasi sistem untuk konektivitas Worldleadcurrency dan menerima koin.
+• Widget Apl untuk saldo Worldleadcurrency.
 
-Anda dapat mengetahui lebih mengenai Namecoin di
-http://namecoin.org
+Anda dapat mengetahui lebih mengenai Worldleadcurrency di
+http://worldleadcurrency.org
 
-Jika Anda ingin berkontribusi kepada Namecoin Wallet, proyeknya berada di
-https://github.com/HashEngineering/namecoin-wallet
+Jika Anda ingin berkontribusi kepada Worldleadcurrency Wallet, proyeknya berada di
+https://github.com/HashEngineering/worldleadcurrency-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!
