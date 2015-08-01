@@ -217,7 +217,7 @@ public final class WalletBalanceFragment extends Fragment
 			{
 				viewBalanceBtc.setVisibility(View.VISIBLE);
 				viewBalanceBtc.setFormat(config.getFormat());
-				viewBalanceBtc.setAmount(wallet.getBalanceAfterDemurrage());
+				viewBalanceBtc.setAmount(balance);
 
 				final boolean tooMuch = balance.isGreaterThan(Coin.valueOf(1000000, 0));
 
