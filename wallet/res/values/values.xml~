@@ -19,6 +19,8 @@
 		<item>WLC, 8 digits</item>
 		<item>WLC, 6 digits</item>
 		<item>WLC, 4 digits</item>
+		<item>mWLC, 2 digits</item>
+		<item>µWLC, no digits</item>
 	</string-array>
 
 </resources>

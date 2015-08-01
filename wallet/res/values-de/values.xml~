@@ -5,6 +5,8 @@
 		<item>WLC, 8 Dezimalen</item>
 		<item>WLC, 6 Dezimalen</item>
 		<item>WLC, 4 Dezimalen</item>
+		<item>mWLC, 2 Dezimalen</item>
+		<item>µWLC, keine Dezimalen</item>
 	</string-array>
 
 </resources>

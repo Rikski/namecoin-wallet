@@ -5,6 +5,8 @@
 		<item>WLC, 8 decimaler</item>
 		<item>WLC, 6 decimaler</item>
 		<item>WLC, 4 decimaler</item>
+		<item>mWLC, 2 decimaler</item>
+		<item>µWLC, uden decimaler</item>
 	</string-array>
 
 </resources>

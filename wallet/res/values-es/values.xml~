@@ -5,6 +5,8 @@
 		<item>WLC, 8 dígitos</item>
 		<item>WLC, 6 dígitos</item>
 		<item>WLC, 4 dígitos</item>
+		<item>mWLC, 2 dígitos</item>
+		<item>µWLC, sin dígitos</item>
 	</string-array>
 
 </resources>

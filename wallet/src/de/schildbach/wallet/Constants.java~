@@ -124,7 +124,7 @@ public final class Constants
 	public static final String DONATION_ADDRESS = CoinDefinition.DONATION_ADDRESS;;
 
 	/** Recipient e-mail address for reports. */
-	public static final String REPORT_EMAIL = "support@winc-ev.org";;
+	public static final String REPORT_EMAIL = "hashengineeringsolutions@gmail.com";;
 
 	/** Subject line for manually reported issues. */
 	public static final String REPORT_SUBJECT_ISSUE = "Reported issue";
@@ -147,15 +147,15 @@ public final class Constants
 
     public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 4.14\n";
     public static final String FORKED_FROM_SOURCE_BITCOINJ = "based on bitcoinj 0.12\n";
-	public static final String CREDITS_BITCOINJ_URL = "https://github.com/Worldleadcurrency/" + CoinDefinition.coinName.toLowerCase() + "j";
+	public static final String CREDITS_BITCOINJ_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
-    public static final String CREDITS_WEBSITE_URL = "http://winc-ev.org/";
+    public static final String CREDITS_WEBSITE_URL = "http://worldleadcurrency.org/";
     public static final String CREDITS_FORUM_URL = "http://worldleadcurrency.org/forum/";
 
 	public static final String CREDITS_ICON_URL = "https://bitcointalk.org/index.php?action=profile;u=2062";
 
-	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/WINC_ev";
-	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/WINC_ev";
+	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/HashEngineering";
+	public static final String AUTHOR_GOOGLEPLUS_URL = "https://profiles.google.com/HashEngineering";
 
 	public static final String COMMUNITY_GOOGLEPLUS_URL = "https://plus.google.com/communities/105515929887248493912";
 
@@ -164,8 +164,8 @@ public final class Constants
 //=======
 	public static final MonetaryFormat LOCAL_FORMAT = new MonetaryFormat().noCode().minDecimals(3).optionalDecimals();
 
-    public static final String SOURCE_URL = "https://github.com/Worldleadcurrency/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
-    public static final String BINARY_URL = "https://github.com/Worldleadcurrency/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
+    public static final String SOURCE_URL = "https://github.com/HashEngineering/" + CoinDefinition.coinName.toLowerCase() + "-wallet";
+    public static final String BINARY_URL = "https://github.com/HashEngineering/"+ CoinDefinition.coinName.toLowerCase() +"-wallet/releases";
 
     public static final String MARKET_APP_URL = "market://details?id=%s";
     public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";//>>>>>>> origin/master
