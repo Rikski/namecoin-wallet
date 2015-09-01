@@ -1,36 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="512px" height="512px" viewBox="-0.015 -0.015 1.03 1.03"
-	preserveAspectRatio="xMidYMid">
-
-	<defs>
-		<filter id="coin-shadow">
-			<feGaussianBlur in="SourceAlpha" result="blur-out" stdDeviation="0.5" />
-			<feMerge>
-				<feMergeNode />
-				<feMergeNode in="SourceGraphic" />
-			</feMerge>
-		</filter>
-		<filter id="symbol-shadow">
-			<feGaussianBlur in="SourceAlpha" result="blur-out" stdDeviation="1.3" />
-			<feMerge>
-				<feMergeNode />
-				<feMergeNode in="SourceGraphic" />
-			</feMerge>
-		</filter>
-		<linearGradient id="coin-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
-			<stop offset="0%" style="stop-color:#bbbbbb" />
-			<stop offset="100%" style="stop-color:#999999" />
-		</linearGradient>
-	</defs>
-
-	<g transform="scale(0.015625)">
-		<path id="coin"
-			d="m 63.0359,39.741 c -4.274,17.143 -21.637,27.576 -38.782,23.301 -17.138,-4.274 -27.571,-21.638 -23.295,-38.78 4.272,-17.145 21.635,-27.579 38.775,-23.305 17.144,4.274 27.576,21.64 23.302,38.784 z"
-			style="fill:url(#coin-gradient)" filter="url(#coin-shadow)" />
-		<path id="symbol"
-			d="m 46.1009,27.441 c 0.637,-4.258 -2.605,-6.547 -7.038,-8.074 l 1.438,-5.768 -3.511,-0.875 -1.4,5.616 c -0.923,-0.23 -1.871,-0.447 -2.813,-0.662 l 1.41,-5.653 -3.509,-0.875 -1.439,5.766 c -0.764,-0.174 -1.514,-0.346 -2.242,-0.527 l 0.004,-0.018 -4.842,-1.209 -0.934,3.75 c 0,0 2.605,0.597 2.55,0.634 1.422,0.355 1.679,1.296 1.636,2.042 l -1.638,6.571 c 0.098,0.025 0.225,0.061 0.365,0.117 -0.117,-0.029 -0.242,-0.061 -0.371,-0.092 l -2.296,9.205 c -0.174,0.432 -0.615,1.08 -1.609,0.834 0.035,0.051 -2.552,-0.637 -2.552,-0.637 l -1.743,4.019 4.569,1.139 c 0.85,0.213 1.683,0.436 2.503,0.646 l -1.453,5.834 3.507,0.875 1.439,-5.772 c 0.958,0.26 1.888,0.5 2.798,0.726 l -1.434,5.745 3.511,0.875 1.453,-5.823 c 5.987,1.133 10.489,0.676 12.384,-4.739 1.527,-4.36 -0.076,-6.875 -3.226,-8.515 2.294,-0.529 4.022,-2.038 4.483,-5.155 z m -8.022,11.249 c -1.085,4.36 -8.426,2.003 -10.806,1.412 l 1.928,-7.729 c 2.38,0.594 10.012,1.77 8.878,6.317 z m 1.086,-11.312 c -0.99,3.966 -7.1,1.951 -9.082,1.457 l 1.748,-7.01 c 1.982,0.494 8.365,1.416 7.334,5.553 z"
-			style="fill:#ffffff" filter="url(#symbol-shadow)" />
-	</g>
-
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="512px"
+   height="512px"
+   viewBox="-0.015 -0.015 1.03 1.03"
+   preserveAspectRatio="xMidYMid"
+   id="svg4645"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="app_icon.svg">
+  <metadata
+     id="metadata4678">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     id="namedview4676"
+     showgrid="false"
+     inkscape:zoom="1.3037281"
+     inkscape:cx="32.821341"
+     inkscape:cy="265.25274"
+     inkscape:window-x="-8"
+     inkscape:window-y="112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4645" />
+  <defs
+     id="defs4647">
+    <filter
+       id="coin-shadow">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur-out"
+         stdDeviation="0.5"
+         id="feGaussianBlur4650" />
+      <feMerge
+         id="feMerge4652">
+        <feMergeNode
+           id="feMergeNode4654" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode4656" />
+      </feMerge>
+    </filter>
+    <filter
+       id="symbol-shadow">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur-out"
+         stdDeviation="1.3"
+         id="feGaussianBlur4659" />
+      <feMerge
+         id="feMerge4661">
+        <feMergeNode
+           id="feMergeNode4663" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode4665" />
+      </feMerge>
+    </filter>
+    <linearGradient
+       id="coin-gradient"
+       x1="0%"
+       y1="0%"
+       x2="0%"
+       y2="100%">
+      <stop
+         offset="0%"
+         style="stop-color:#bbbbbb"
+         id="stop4668" />
+      <stop
+         offset="100%"
+         style="stop-color:#999999"
+         id="stop4670" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4462"
+       x="-0.086096238"
+       width="1.1721925"
+       y="-0.11812774"
+       height="1.2362555">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.026978148"
+         id="feGaussianBlur4464" />
+    </filter>
+  </defs>
+  <ellipse
+     style="opacity:1;fill:#e19b00;fill-opacity:1;fill-rule:evenodd;stroke:#643200;stroke-width:0.03832405;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path3336"
+     cx="0.50207174"
+     cy="0.50013679"
+     rx="0.49188089"
+     ry="0.49170655" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:0.80468744px;line-height:200%;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#643200;stroke-width:0.02816406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4462);"
+     x="0.11597928"
+     y="0.82745266"
+     id="text4610"
+     sodipodi:linespacing="200%"><tspan
+       sodipodi:role="line"
+       id="tspan4612"
+       x="0.11597928"
+       y="0.82745266"
+       style="stroke-width:0.02816406;fill:none;fill-opacity:1;stroke:#643200;stroke-opacity:1;">W</tspan></text>
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#643200;stroke-width:0.02947555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0.76833933,0.48300364 c 0.21522286,0 0.21134502,0 0.21134502,0"
+     id="path4622"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4624"
+     d="m 0.02188742,0.48300364 c 0.22323185,0 0.21920963,0 0.21920963,0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#643200;stroke-width:0.03001912;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path4626"
+     d="m 0.73988905,0.56749582 c 0.24419514,0 0.2397953,0 0.2397953,0"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#643200;stroke-width:0.03139686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#643200;stroke-width:0.03229323;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 0.01156332,0.56749582 c 0.25833496,0 0.25368028,0 0.25368028,0"
+     id="path4628"
+     inkscape:connector-curvature="0" />
+  <text
+     sodipodi:linespacing="200%"
+     id="text4170"
+     y="0.83048302"
+     x="0.11261968"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:0.80468744px;line-height:200%;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style, Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#643200;fill-opacity:1;stroke:#643200;stroke-width:0.00201172;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"
+     transform="matrix(0.99998167,-0.00605423,0.00605423,0.99998167,0,0)"><tspan
+       style="fill:#643200;fill-opacity:1;stroke-width:0.00201172;stroke-miterlimit:4;stroke-dasharray:none"
+       y="0.83048302"
+       x="0.11261968"
+       id="tspan4172"
+       sodipodi:role="line">W</tspan></text>
 </svg>
